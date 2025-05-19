@@ -1,4 +1,3 @@
-# Krishi-Rakshak
 # 🌾 KrishiRakshak - Kisaan Ka Digital Sathi
 
 **KrishiRakshak** is an AI-powered web application designed to help farmers detect crop diseases using simple images captured through smartphones. With multilingual support, voice assistance, and weather-based suggestions, this project aims to bridge the digital gap in agriculture.
