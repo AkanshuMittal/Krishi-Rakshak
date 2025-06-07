@@ -17,10 +17,9 @@ To empower farmers with a beginner-friendly, accurate, and real-world-applicable
 
 ## 🧩 Tech Stack
 
-- **Frontend:** HTML, CSS, JS (with Tailwind/Bootstrap for UI)
+- **Frontend:** HTML, CSS, JS (Bootstrap for UI)
 - **Backend:** Flask (Python)
 - **ML Model:** MobileNetV2 (TensorFlow/Keras)
 - **Deployment:** GitHub Pages / Render / Heroku / Railway
-- **Other Tools:** PWA, Speech Synthesis API, Weather API
 
 
